@@ -1,0 +1,5 @@
+workspace 'Accel'
+
+platform :ios, '5.1'
+
+pod 'libPusher', '~> 1.5'
